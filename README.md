@@ -21,6 +21,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+<img src="https://github.com/vivekverma007/first/blob/master/intro-bg2.jpg" />
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
